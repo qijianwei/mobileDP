@@ -1,4 +1,4 @@
-# 仿大众点评移动端 （和我的另一个开源项目sellerAdmins商家后台管理相配合） 
+# 仿大众点评移动端 （和我的另一个开源项目[sellerAdmins](https://github.com/qijianwei/sellerAdmin)商家后台管理相配合） 
 
 > A Vue.js project
 
