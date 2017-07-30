@@ -1,4 +1,4 @@
-# mint-ui-demo
+# 仿大众点评移动端 （和我的另一个开源项目sellerAdmins商家后台管理相配合） 
 
 > A Vue.js project
 
@@ -17,5 +17,7 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## 
+![image](D:\github2\mobileDP\demoImg/1.png)
+![image](D:\github2\mobileDP\demoImg/2.png)
+![image](D:\github2\mobileDP\demoImg/3.png)
